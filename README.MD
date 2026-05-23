@@ -17,7 +17,7 @@ The Biennial Report is required under Sections 3002 and 3004 of the Resource Con
 |---|---|---|
 | 2021 | 1,829,496 | 82,368,244 |
 | 2023 | 1,769,356 | 69,684,726 |
-| **Combined** | **3,598,852** | — |
+| **Combined** | **3,598,852** | **152,052,970** |
 
 > Note: The CSV files are too large for GitHub. They can be downloaded from the EPA directly:  
 > [BR_REPORTING_2021.zip (40.81 MB)](https://rcrapublic.epa.gov/rcra-hwip/data-access/csv-downloads)  
